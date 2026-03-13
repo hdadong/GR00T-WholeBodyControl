@@ -175,6 +175,14 @@ Clone the repository with Git LFS:
 git clone https://github.com/NVlabs/GR00T-WholeBodyControl.git
 cd GR00T-WholeBodyControl
 git lfs pull
+
+(base) admin123@admin123-System-Product-Name:~$ /opt/apps/roboticsservice/runService.sh
+:/opt/apps/roboticsservice:/opt/apps/roboticsservice/lib:/opt/apps/roboticsservice/SDK/x64
+/opt/apps/roboticsservice/plugins/:
+/opt/apps/roboticsservice/qml/:
+(base) admin123@admin123-System-Product-Name:~$ release mode
+
+
 ```
 
 ## Documentation
